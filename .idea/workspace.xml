@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99485574-18b2-4b12-be18-5418ca8cc5e8" name="Default Changelist" comment="" />
+    <list default="true" id="b1d291fb-1378-4b54-addb-38272d95b175" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/test/AssignmentTest_1_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oop_a1/Oop_a1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aoop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oop_a1/src/Assignment_1_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oop_a1/src/Assignment_1_4.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,22 +19,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Aoop" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Oop_a1/src/Assignment_1_4.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+            <state relative-caret-position="121">
+              <caret line="43" column="48" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Oop_a1/test/AssignmentTest_1_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#1455#1456#0" expanded="true" />
+                <element signature="e#1481#1482#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -36,6 +60,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -45,9 +70,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Oop_a1/src/Assignment_1.java" />
-        <option value="$PROJECT_DIR$/Oop_a1/src/Assignment_1_2.java" />
-        <option value="$PROJECT_DIR$/Oop_a1/src/Assignment_1_4.java" />
+        <option value="$PROJECT_DIR$/src/java/Assigment_1_4.java" />
+        <option value="$PROJECT_DIR$/src/nococ/Assigment_1_4.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a1/nococ/Assigment_1_4.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_2.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_4Test.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a1/test/Assignment_1_4Test.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a1/test/Assignment_1_4TestTest.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_4.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a1/test/AssignmentTest_1_4.java" />
       </list>
     </option>
   </component>
@@ -73,13 +104,27 @@
             <path>
               <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
               <item name="Aoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Oop_a1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
               <item name="Aoop" type="462c0819:PsiDirectoryNode" />
-              <item name="Oop_a1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Oop_a1" type="462c0819:PsiDirectoryNode" />
+              <item name="nococ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Oop_a1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -89,13 +134,30 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="Oop_a1.nococ.Assignment_1_4.Stack" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Oop_a1.test" />
+      <recent name="Oop_a1.nococ" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="Oop_a1.nococ.Assignment_1_4.Stack" />
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,120 +171,211 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.Oop_a1.test in Aoop">
+    <configuration name="Assigment_1_4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Oop_a1.nococ.Assignment_1_4" />
+      <module name="Aoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oop_a1.nococ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assigment_1_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nococ.Assigment_1_4" />
+      <module name="Aoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nococ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment_1_2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Oop_a1.nococ.Assignment_1_2" />
+      <module name="Aoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oop_a1.test in Aoop" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Aoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oop_a1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Oop_a1.test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Assignment_1_2" />
+      <item itemvalue="Application.Assigment_1_4" />
+      <item itemvalue="JUnit.Oop_a1.test in Aoop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Assigment_1_4" />
+        <item itemvalue="Application.Assignment_1_2" />
+        <item itemvalue="Application.Assigment_1_4" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="99485574-18b2-4b12-be18-5418ca8cc5e8" name="Default Changelist" comment="" />
-      <created>1554213513558</created>
+      <changelist id="b1d291fb-1378-4b54-addb-38272d95b175" name="Default Changelist" comment="" />
+      <created>1554464542415</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554213513558</updated>
-      <workItem from="1554213542309" duration="9398000" />
+      <updated>1554464542415</updated>
+      <workItem from="1554464553847" duration="791000" />
+      <workItem from="1554465675966" duration="734000" />
+      <workItem from="1554467804527" duration="259000" />
+      <workItem from="1554468154521" duration="84000" />
+      <workItem from="1554468331106" duration="295000" />
+      <workItem from="1554468712848" duration="9123000" />
+      <workItem from="1554649532573" duration="3197000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9398000" />
+  <component name="TestHistory">
+    <history-entry file="Oop_a1_test_in_Aoop - 2019.04.07 at 17h 32m 35s.xml">
+      <configuration name="Oop_a1.test in Aoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oop_a1_test_in_Aoop - 2019.04.07 at 17h 36m 07s.xml">
+      <configuration name="Oop_a1.test in Aoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oop_a1_test_in_Aoop - 2019.04.07 at 17h 38m 16s.xml">
+      <configuration name="Oop_a1.test in Aoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oop_a1_test_in_Aoop - 2019.04.07 at 17h 41m 09s.xml">
+      <configuration name="Oop_a1.test in Aoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oop_a1_test_in_Aoop - 2019.04.07 at 17h 43m 32s.xml">
+      <configuration name="Oop_a1.test in Aoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oop_a1_test_in_Aoop - 2019.04.07 at 17h 45m 11s.xml">
+      <configuration name="Oop_a1.test in Aoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oop_a1_test_in_Aoop - 2019.04.07 at 17h 47m 11s.xml">
+      <configuration name="Oop_a1.test in Aoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oop_a1_test_in_Aoop - 2019.04.07 at 17h 48m 13s.xml">
+      <configuration name="Oop_a1.test in Aoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oop_a1_test_in_Aoop - 2019.04.07 at 17h 49m 39s.xml">
+      <configuration name="Oop_a1.test in Aoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oop_a1_test_in_Aoop - 2019.04.07 at 17h 57m 21s.xml">
+      <configuration name="Oop_a1.test in Aoop" configurationId="JUnit" />
+    </history-entry>
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1372" height="740" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2439577" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878934" visible="true" weight="0.27265862" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49924472" weight="0.38925081" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007553" side_tool="true" weight="0.38925081" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50121063" side_tool="true" weight="0.2688822" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32736155" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/nococ/Assigment_1_4.java" />
+    <entry file="file://$PROJECT_DIR$/Aoop.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Oop/src/oop_a1/src/Assignment_1.java">
+    <entry file="file://$PROJECT_DIR$/../IdeaProjects/Aoop/src/Oop_a1/nococ/Assignment_1_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        <state relative-caret-position="354">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+          <folding>
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Oop_a1/src/Assignment_1_2.java">
+    <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_4Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a1/test/Assignment_1_4TestTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a1/test/Assignment_1_4Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        <state relative-caret-position="330">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Oop_a1/src/Assignment_1_4.java">
+    <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        <state relative-caret-position="121">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a1/test/AssignmentTest_1_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#1455#1456#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -277,18 +430,27 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Oop_a1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
