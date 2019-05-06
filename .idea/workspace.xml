@@ -145,8 +145,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/TextFrame.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="281">
               <caret line="78" column="4" lean-forward="true" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+=======
+            <state relative-caret-position="266">
+              <caret line="75" column="21" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="21" />
+>>>>>>> alex
             </state>
           </provider>
         </entry>
@@ -266,7 +271,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+>>>>>>> alex
     <option name="y" value="31" />
     <option name="width" value="683" />
     <option name="height" value="737" />
@@ -547,7 +556,11 @@
       <workItem from="1556215160380" duration="5133000" />
       <workItem from="1556527786124" duration="6379000" />
       <workItem from="1556544341681" duration="9800000" />
+<<<<<<< HEAD
       <workItem from="1557143279352" duration="18424000" />
+=======
+      <workItem from="1557143279352" duration="17716000" />
+>>>>>>> alex
     </task>
     <servers />
   </component>
@@ -563,7 +576,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="151548000" />
+=======
+    <option name="totallyTimeSpent" value="150840000" />
+>>>>>>> alex
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -985,8 +1002,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/TextFrame.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="281">
           <caret line="78" column="4" lean-forward="true" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+=======
+        <state relative-caret-position="266">
+          <caret line="75" column="21" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="21" />
+>>>>>>> alex
         </state>
       </provider>
     </entry>
