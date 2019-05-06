@@ -1,5 +1,6 @@
 package Oop_a1.nococ;
 public class Assignment_1_2 {
+
     private static double[][] create_matrix(int r, int c){
         if(r > 0 && c > 0) {
             double[][] m = new double[r][c];
