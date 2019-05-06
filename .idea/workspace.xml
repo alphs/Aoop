@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1d291fb-1378-4b54-addb-38272d95b175" name="Default Changelist" comment="" />
+    <list default="true" id="b1d291fb-1378-4b54-addb-38272d95b175" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/asdf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/Dependency/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment1_12$Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment1_12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_6$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_6$MessageStack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_6$MessageStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/Oop_a1/nococ/Assignment_1_6.MessageStack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/Oop_a1/nococ/Assignment_1_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/Oop_a1/nococ/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/Oop_a1/nococ/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/Oop_a1/nococ/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/javadoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/gui/TestButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/lecture5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/Signal$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/Signal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/SignalObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/SignalWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/StarObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/TestSignal1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/TestSignal1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/TestSignal2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/strategy/DefaultSampler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/strategy/Sampler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/strategy/Sinus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/Dependency/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/Assignment1_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/Oop_a1/nococ/Assignment_1_6.MessageStack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/Oop_a1/nococ/Assignment_1_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/Oop_a1/nococ/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/Oop_a1/nococ/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/Oop_a1/nococ/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/BarFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/DataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/ObserverTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/TextFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/lecture5/gui/TestButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/lecture5/lecture5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/lecture5/observer/Signal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/lecture5/observer/SignalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/lecture5/observer/SignalWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/lecture5/observer/StarObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/lecture5/observer/TestSignal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/lecture5/observer/TestSignal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/lecture5/strategy/DefaultSampler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/lecture5/strategy/Sampler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a2/lecture5/strategy/Sinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_2.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,34 +108,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_2.java">
+        <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/BarFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="222">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_4.java">
+        <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/DataModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="480">
+              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Oop_a1/test/AssignmentTest_1_4.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/ObserverTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="266">
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/TextFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="75" column="21" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -56,26 +160,118 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mousepres</find>
+      <find>height</find>
+      <find>barLength</find>
+      <find>rectangle</find>
+      <find>count</find>
+      <find>c</find>
+      <find>text</find>
+      <find>v</find>
+      <find>getIconWidth()</find>
+      <find>BarFrame</find>
+      <find>g2</find>
+      <find>paintIcon</find>
+      <find>repaint</find>
+      <find>repaint()</find>
+      <find>icon</find>
+      <find>model</find>
+      <find>getContentPane</find>
+      <find>get</find>
+      <find>System.out.println</find>
+      <find>pretty</find>
+      <find>toString</find>
+      <find>getValue()</find>
+      <find>accept</find>
+      <find>String initialResult</find>
+      <find>meine</find>
+      <find>stateChanged</find>
+      <find>update</find>
+      <find>alskdnalkn</find>
+      <find>ChangeListener</find>
+      <find>attach</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>MessageStack</replace>
+      <replace>@postcondition</replace>
+      <replace>@precondition</replace>
+      <replace>int initialResult</replace>
+      <replace>initialResult</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/Oop_a2/gitK/ass2</dir>
+      <dir>$PROJECT_DIR$/src/Oop_a2/lecture7/visitorpassres</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java/Assigment_1_4.java" />
-        <option value="$PROJECT_DIR$/src/nococ/Assigment_1_4.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a1/nococ/Assigment_1_4.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_2.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a1/test/AssignmentTest_1_4.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/lecture7/visitorpassres/ListLeavesVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/lecture7/visitorpassres/Node.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/lecture7/visitorpassres/Tree.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/lecture7/visitorpassres/TreeHeightVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/lecture7/visitorpassres/Leaf.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/lecture7/visitorpassres/TestVisitors.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/lecture7/visitorpassres/TreeVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/lecture7/visitorpassres/PrettyPrintVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2/unx/BarFrame.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2/lecture7/visitorpassres/TreeVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2/lecture7/visitorpassres/TestVisitors.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2/lecture7/visitorpassres/PrettyPrintVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/assignment2_3/abstractFilter.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/assignment2_3/abstractFilterTester.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/lecture7/visitorpassres/TestVisitors.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/lecture7/visitorpassres/PrettyPrintVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/Leaf.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/LeavesCountVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/ListLeavesVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/Node.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/Tree.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/TreeHeightVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/TreeVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/Leaf.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/LeavesCountVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/ListLeavesVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/Node.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/PrettyPrintVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/TestVisitors.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/Tree.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/TreeHeightVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/TreeVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/unx/DataModel.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/unx/ObserverTester.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/unx/TextFrame.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/unx/BarFrame.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/README.md" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/DefaultSampler.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/Sampler.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/Signal.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/SignalObserver.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/SignalWindow.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/Sinus.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/StarObserver.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/TestSignal1.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/PrettyPrintVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/TestVisitors.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/DataModel.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/BarFrame.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/ObserverTester.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/TextFrame.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="7" />
-    <option name="y" value="51" />
-    <option name="width" value="1342" />
-    <option name="height" value="699" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="31" />
+    <option name="width" value="683" />
+    <option name="height" value="737" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -88,19 +284,56 @@
               <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
               <item name="Aoop" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Oop_a2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Oop_a2" type="462c0819:PsiDirectoryNode" />
+              <item name="gitK" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UNSCRAMBLER_NAME_USED" value="ZKM, bytecode-based (can handle synthetic methods)" />
+    <property name="UNSCRAMBLE_LOG_FILE_LAST_URL" value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/TestVisitors.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Oop_a2.gitK.ass2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2" />
+      <recent name="$PROJECT_DIR$/src/Oop_a2/gitK" />
+      <recent name="$PROJECT_DIR$/src/Oop_a2/gitK/ass2" />
+      <recent name="$PROJECT_DIR$/src/Oop_a2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,9 +347,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AssignmentTest_1_4">
-    <configuration name="Assigment_1_4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oop_a1.nococ.Assigment_1_4" />
+  <component name="RunManager" selected="Application.ObserverTester">
+    <configuration name="Assigment_1_2" type="Application" factoryName="Application" folderName="Oop_a1">
+      <option name="MAIN_CLASS_NAME" value="Oop_a1.nococ.Assignment_1_2" />
       <module name="Aoop" />
       <extension name="coverage">
         <pattern>
@@ -128,7 +361,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assigment_1_4" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Assigment_1_4" type="Application" factoryName="Application" folderName="Oop_a1" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java.Assigment_1_4" />
       <module name="Aoop" />
       <extension name="coverage">
@@ -154,7 +387,100 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssignmentTest_1_4" type="JUnit" factoryName="JUnit">
+    <configuration name="Assignment_1_12" type="Application" factoryName="Application" folderName="Oop_a1">
+      <option name="MAIN_CLASS_NAME" value="Oop_a1.nococ.Assignment1_12" />
+      <module name="Aoop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment_1_6" type="Application" factoryName="Application" folderName="Oop_a1">
+      <option name="MAIN_CLASS_NAME" value="Oop_a1.nococ.Assignment_1_6" />
+      <module name="Aoop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oop_a2.gitK.ass2re1.unx.ObserverTester" />
+      <module name="Aoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oop_a2.gitK.ass2re1.unx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oop_a2.gitK.ass2re2.unx.ObserverTester" />
+      <module name="Aoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oop_a2.gitK.ass2re2.unx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSignal1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oop_a2.gitK.ass2re2.assignment2.TestSignal1" />
+      <module name="Aoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oop_a2.gitK.ass2re2.assignment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSignal1" type="Application" factoryName="Application" folderName="Oop_a2">
+      <option name="MAIN_CLASS_NAME" value="Oop_a2.lecture5.observer.TestSignal1" />
+      <module name="Aoop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSignal2" type="Application" factoryName="Application" folderName="Oop_a2">
+      <option name="MAIN_CLASS_NAME" value="Oop_a2.lecture5.observer.TestSignal2" />
+      <module name="Aoop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVisitors (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oop_a2.gitK.ass2re2.lecture7.visitorpassres.TestVisitors" />
+      <module name="Aoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oop_a2.gitK.ass2re2.lecture7.visitorpassres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVisitors (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oop_a2.gitK.ass2re1.lecture7.visitorpassres.TestVisitors" />
+      <module name="Aoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oop_a2.gitK.ass2re1.lecture7.visitorpassres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssignmentTest_1_4" type="JUnit" factoryName="JUnit" folderName="Oop_a1">
       <module name="Aoop" />
       <option name="PACKAGE_NAME" value="Oop_a1.test" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -166,14 +492,26 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Assigment_1_2" />
       <item itemvalue="Application.Assigment_1_4" />
-      <item itemvalue="Application.Assigment_1_4 (1)" />
+      <item itemvalue="Application.Assignment_1_12" />
+      <item itemvalue="Application.Assignment_1_6" />
+      <item itemvalue="Application.TestSignal1" />
+      <item itemvalue="Application.TestSignal2" />
+      <item itemvalue="Application.ObserverTester (1)" />
+      <item itemvalue="Application.ObserverTester" />
+      <item itemvalue="Application.TestVisitors (2)" />
+      <item itemvalue="Application.TestVisitors (4)" />
+      <item itemvalue="Application.TestSignal1 (1)" />
       <item itemvalue="JUnit.AssignmentTest_1_4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Assigment_1_4 (1)" />
-        <item itemvalue="Application.Assigment_1_4 (1)" />
+        <item itemvalue="Application.ObserverTester" />
+        <item itemvalue="Application.TestVisitors (2)" />
+        <item itemvalue="Application.TestSignal1 (1)" />
+        <item itemvalue="Application.ObserverTester (1)" />
+        <item itemvalue="Application.TestVisitors (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +530,24 @@
       <workItem from="1554467804527" duration="259000" />
       <workItem from="1554468154521" duration="84000" />
       <workItem from="1554671388544" duration="115000" />
+      <workItem from="1554673035019" duration="11042000" />
+      <workItem from="1554686578639" duration="724000" />
+      <workItem from="1554733862498" duration="6617000" />
+      <workItem from="1554810265216" duration="5638000" />
+      <workItem from="1554829231229" duration="5939000" />
+      <workItem from="1554838652702" duration="3062000" />
+      <workItem from="1555339675966" duration="13723000" />
+      <workItem from="1555416490079" duration="29056000" />
+      <workItem from="1555511789988" duration="632000" />
+      <workItem from="1555518334309" duration="4271000" />
+      <workItem from="1555523036746" duration="325000" />
+      <workItem from="1555594841128" duration="11830000" />
+      <workItem from="1555693699869" duration="7410000" />
+      <workItem from="1556197337386" duration="9560000" />
+      <workItem from="1556215160380" duration="5133000" />
+      <workItem from="1556527786124" duration="6379000" />
+      <workItem from="1556544341681" duration="9800000" />
+      <workItem from="1557143279352" duration="17716000" />
     </task>
     <servers />
   </component>
@@ -199,31 +555,50 @@
     <history-entry file="AssignmentTest_1_4 - 2019.04.07 at 23h 11m 45s.xml">
       <configuration name="AssignmentTest_1_4" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AssignmentTest_1_4 - 2019.04.07 at 23h 47m 17s.xml">
+      <configuration name="AssignmentTest_1_4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssignmentTest_1_4 - 2019.04.08 at 02h 49m 25s.xml">
+      <configuration name="AssignmentTest_1_4" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1983000" />
+    <option name="totallyTimeSpent" value="150840000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1372" height="740" extended-state="6" />
+    <frame x="-5" y="0" width="1376" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26510575" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878934" visible="true" weight="0.2322239" />
+      <window_info id="Structure" order="1" sideWeight="0.50121063" side_tool="true" weight="0.22205438" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Learn" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32736155" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848944" visible="true" weight="0.3271605" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50151056" side_tool="true" weight="0.32736155" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3287037" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="12" weight="0.32899022" />
+      <window_info anchor="bottom" id="Analyze Dataflow from" order="13" weight="0.32899022" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -231,35 +606,404 @@
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878934" visible="true" weight="0.22844176" />
+      <window_info id="Structure" order="1" sideWeight="0.50121063" side_tool="true" weight="0.22205438" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848944" visible="true" weight="0.3271605" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50151056" side_tool="true" weight="0.32736155" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3287037" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="12" weight="0.32899022" />
+      <window_info anchor="bottom" id="Analyze Dataflow from" order="13" weight="0.32899022" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/nococ/Assigment_1_4.java" />
-    <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_2.java">
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/ass2re1/lecture7/visitorbase/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/ass2re1/lecture7/visitorbase/Tree.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/Signal.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/Sampler.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/lecture7/visitorpassres/TreeHeightVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/lecture7/visitorpassres/ListLeavesVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/assignment2_3/abstractFilterTester.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/assignment2_3/abstractFilter.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/lecture7/visitorpassres/TestVisitors.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/lecture7/visitorpassres/TreeVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/lecture7/visitorpassres/LeavesCountVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2/ass2re2/lecture7/visitorpassres/PrettyPrintVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/LeavesCountVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state>
+          <caret column="20" lean-forward="true" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_4.java">
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/ListLeavesVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/TreeHeightVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/TreeVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/Leaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/TreeHeightVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/TreeVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/LeavesCountVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/ListLeavesVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/TestVisitors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/Leaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Integer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/DefaultSampler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/Sampler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/Signal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/SignalObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/SignalWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/Sinus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/StarObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/assignment2/TestSignal1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/TestVisitors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/unx/BarFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="46" column="24" lean-forward="true" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/unx/DataModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a1/test/AssignmentTest_1_4.java">
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/unx/ObserverTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/unx/TextFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/PrettyPrintVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/PrettyPrintVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/swing/event/ChangeListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/BarFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/DataModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/ObserverTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/gitK/ass2re2/unx/TextFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="75" column="21" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
