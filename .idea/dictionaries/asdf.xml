@@ -2,6 +2,7 @@
   <dictionary name="asdf">
     <words>
       <w>postcondition</w>
+      <w>subnodes</w>
     </words>
   </dictionary>
 </component>

@@ -1,12 +1,15 @@
 package Oop_a3;
 
-import Oop_a3.XML.Annotation.Element;
+import java.lang.annotation.Annotation;
 
 public class Saver {
+    public Annotation[] annoArray;
 
-    @Element
-    public String save(Object o){
+    public String save(Object o) {
+        String toReturn = "";
 
-        return null;
+        o.getClass().
+
+
     }
 }
