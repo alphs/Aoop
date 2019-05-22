@@ -1,93 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9710e044-d986-4e8f-8360-02648a1dbbf2" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/DefaultSampler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/Sampler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/Signal$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/Signal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/SignalObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/SignalWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/Sinus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/StarObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/TestSignal1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2/TestSignal1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2_3/abstractFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/assignment2_3/abstractFilterTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/lecture7/visitorbase/Leaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/lecture7/visitorbase/LeavesCountVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/lecture7/visitorbase/ListLeavesVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/lecture7/visitorbase/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/lecture7/visitorbase/TestVisitors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/lecture7/visitorbase/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/lecture7/visitorbase/TreeHeightVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/ass2re1/lecture7/visitorbase/TreeVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/assignment2_3/abstractFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2/ass2re2/assignment2_3/abstractFilterTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/Leaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/LeavesCountVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/ListLeavesVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/PrettyPrintVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/TestVisitors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/TreeHeightVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/lecture7/visitorpassres/TreeVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/unx/BarFrame$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/unx/BarFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/unx/BarFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/unx/DataModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/unx/ObserverTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/unx/TextFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re1/unx/TextFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/assignment2/DefaultSampler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/assignment2/Sampler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/assignment2/Signal$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/assignment2/Signal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/assignment2/SignalObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/assignment2/SignalWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/assignment2/Sinus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/assignment2/StarObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/assignment2/TestSignal1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/assignment2/TestSignal1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/Leaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/LeavesCountVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/ListLeavesVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/PrettyPrintVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/TestVisitors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/TreeHeightVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/lecture7/visitorpassres/TreeVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/unx/BarFrame$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/unx/BarFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/unx/BarFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/unx/DataModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/unx/ObserverTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/unx/TextFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/gitK/ass2re2/unx/TextFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/AnnotationEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/AnnotationEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/AnnotationImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/AnnotationImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/Saver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/Saver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Exporter/XML_Exporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/XML/Exporter/XML_Exporter.java" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/AnnotationEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/AnnotationImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java" afterDir="false" />
+    <list default="true" id="3e87172e-13ef-437e-b06d-26cef3a6ab45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Oop_Project/idk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/AnnotationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/AnnotationVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/Saver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Annotation/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Annotation/ElementField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Exporter/XML_Exporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Saver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/asdf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/asdf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/Saver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/Saver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/ElementField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/ElementField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElement.java" afterDir="false" />
->>>>>>> alex
+      <change beforePath="$PROJECT_DIR$/Aoop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aoop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/AnnotationEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/AnnotationImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/AnnotationVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Saver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/XML/Annotation/Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/XML/Annotation/ElementField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/XML/Annotation/SubElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/XML/Exporter/XML_Exporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a3/AnnotationEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/AnnotationEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a3/AnnotationImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a3/Saver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a3/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/ElementField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Annotation/SubElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Exporter/XML_Exporter.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,313 +48,103 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Aoop" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
-    <splitter split-orientation="horizontal" split-proportion="0.58681524">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a3/Saver.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-=======
-    <splitter split-orientation="horizontal" split-proportion="0.52924794">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a2/lecture5/strategy/Sinus.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" selection-start-line="7" selection-end-line="7" />
->>>>>>> alex
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-            <entry file="file://$PROJECT_DIR$/src/Oop_a3/Tree.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#371#372#0" expanded="true" />
-                    <element signature="e#398#399#0" expanded="true" />
-                    <element signature="e#503#504#0" expanded="true" />
-                    <element signature="e#566#567#0" expanded="true" />
-                    <element signature="e#596#597#0" expanded="true" />
-=======
-            <entry file="file://$PROJECT_DIR$/src/Oop_a3/XML/Annotation/Element.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
->>>>>>> alex
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-            <entry file="file://$PROJECT_DIR$/src/Oop_a3/XML/Exporter/XML_Exporter.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="195">
-                  <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#180#188#0" expanded="true" />
-=======
-            <entry file="file://$PROJECT_DIR$/src/Oop_a3/Saver.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="283">
-                  <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
->>>>>>> alex
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationImpl.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-<<<<<<< HEAD
-                  <caret line="10" selection-start-line="10" selection-end-line="10" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElements.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-=======
-                  <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-                  <folding>
->>>>>>> alex
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-<<<<<<< HEAD
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationEx.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" selection-start-line="3" selection-end-line="3" />
-=======
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationEx.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
->>>>>>> alex
-                  <folding>
-                    <element signature="e#189#190#0" expanded="true" />
-                    <element signature="e#216#217#0" expanded="true" />
-                    <element signature="e#258#259#0" expanded="true" />
-                    <element signature="e#285#286#0" expanded="true" />
-<<<<<<< HEAD
-=======
-                    <element signature="e#358#359#0" expanded="true" />
-                    <element signature="e#385#386#0" expanded="true" />
->>>>>>> alex
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java">
-              <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-                <state relative-caret-position="165">
-                  <caret line="11" selection-start-line="11" selection-end-line="11" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#229#230#0" expanded="true" />
-                    <element signature="e#256#257#0" expanded="true" />
-                    <element signature="e#507#508#0" expanded="true" />
-                    <element signature="e#543#544#0" expanded="true" />
-=======
-                <state relative-caret-position="330">
-                  <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#364#365#0" expanded="true" />
-                    <element signature="e#390#391#0" expanded="true" />
-                    <element signature="e#493#494#0" expanded="true" />
-                    <element signature="e#519#520#0" expanded="true" />
-                    <element signature="e#507#508#0" expanded="true" />
-                    <element signature="e#542#543#0" expanded="true" />
->>>>>>> alex
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-<<<<<<< HEAD
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/PrettyPrintVisitor.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-                  <folding>
-                    <element signature="e#217#218#0" expanded="true" />
-                    <element signature="e#269#270#0" expanded="true" />
-                    <element signature="method#visit#1;class#PrettyPrintVisitor#0" />
-                    <element signature="method#visit#2;class#PrettyPrintVisitor#0" />
-=======
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/PrettyPrintVisitor.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-                  <folding>
-                    <element signature="method#visit#1;class#PrettyPrintVisitor#0" />
->>>>>>> alex
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a3/lecture10/TestRunner.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/TestVisitors.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="449">
-                  <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/TreeVisitor.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Tree.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="4" selection-start-line="3" selection-end-line="4" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-<<<<<<< HEAD
-          <file pinned="false" current-in-tab="false">
-=======
-          <file pinned="false" current-in-tab="true">
->>>>>>> alex
-            <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Leaf.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="10" column="7" selection-start-line="10" selection-end-line="11" />
-                  <folding>
-                    <element signature="e#212#213#0" expanded="true" />
-                    <element signature="e#254#255#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="14" selection-start-line="6" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Saver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Oop_Project/idk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Annotation/Element.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>SubElement</find>
+      <find>=======</find>
+      <find>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</find>
     </findStrings>
     <replaceStrings>
-      <replace>SubElements</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/Oop_Project" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/unx/ObserverTester.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML_Exporter.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML_Exporter_Annotation.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Exporter/XML_Exporter_Annotation.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Exporter/Annotations/Annotation.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Exporter/Annotations/XML_Exporter_Annotation.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Exporter/Annotations/Element.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/Annotations/Element.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/Annotations/Annotations/Element.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML/XML_Exporter.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/lecture10/ClassPreamble.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/lecture10/FieldTester.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/lecture10/MyClass.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/lecture10/Test.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/lecture10/TestRunner.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/ElementField.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a2/lecture5/strategy/Sinus.java" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/src/Oop_a3/PrettyPrintVisitor.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/AnnotationVisiotor.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/Element.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/AnnotationImpl.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/AnnotationEx.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElement.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Exporter/XML_Exporter.java" />
         <option value="$PROJECT_DIR$/src/Oop_a3/Tree.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/Saver.java" />
-=======
-        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/Element.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/PrettyPrintVisitor.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/AnnotationVisiotor.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/Saver.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/AnnotationImpl.java" />
         <option value="$PROJECT_DIR$/src/Oop_a3/AnnotationEx.java" />
->>>>>>> alex
+        <option value="$PROJECT_DIR$/src/Oop_a3/AnnotationImpl.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/ElementField.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElements.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/Element.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/XML/Exporter/XML_Exporter.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/Saver_re1.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/Saver.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Exporter/XML_Exporter.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Assignment_3re1/Tree.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Tree.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/Saver.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Exporter/XML_Exporter.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3_2/Saver.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3/Saver.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Saver.java" />
       </list>
     </option>
   </component>
@@ -415,11 +156,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <flattenPackages ProjectPane="false" />
-      <showMembers ProjectPane="false" />
-      <hideEmptyPackages ProjectPane="true" />
-      <abbreviatePackageNames ProjectPane="true" />
-      <sortByType ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -440,34 +176,7 @@
               <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
               <item name="Aoop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Oop_a3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Oop_a3" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="XML" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Oop_a3" type="462c0819:PsiDirectoryNode" />
-              <item name="XML" type="462c0819:PsiDirectoryNode" />
-              <item name="Annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Oop_a3" type="462c0819:PsiDirectoryNode" />
-              <item name="XML" type="462c0819:PsiDirectoryNode" />
-              <item name="Exporter" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="XML" type="462c0819:PsiDirectoryNode" />
->>>>>>> alex
+              <item name="Oop_Project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -479,20 +188,26 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Oop_a3" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Oop_a3" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="Oop_a3" />
-      <recent name="Oop_a3.lecture10" />
-      <recent name="Oop_a3.XML" />
-      <recent name="Oop_a3.Annotations" />
+      <recent name="Oop_a3.Assignment_3re1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Oop_a3" />
-      <recent name="Oop_a3.XML.Annotation" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Oop_a3.XML.Exporter.Annotations" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -509,11 +224,11 @@
   </component>
   <component name="RunManager">
     <configuration name="XML_Exporter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oop_a3.XML.Exporter.XML_Exporter" />
+      <option name="MAIN_CLASS_NAME" value="Oop_a3.Assignment_3re2.XML.Exporter.XML_Exporter" />
       <module name="Aoop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oop_a3.XML.Exporter.*" />
+          <option name="PATTERN" value="Oop_a3.Assignment_3re2.XML.Exporter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -527,541 +242,257 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9710e044-d986-4e8f-8360-02648a1dbbf2" name="Default Changelist" comment="" />
-      <created>1557223137902</created>
+      <changelist id="3e87172e-13ef-437e-b06d-26cef3a6ab45" name="Default Changelist" comment="" />
+      <created>1557314961989</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557223137902</updated>
-<<<<<<< HEAD
-      <workItem from="1557223191144" duration="22985000" />
+      <updated>1557314961989</updated>
+      <workItem from="1557315026423" duration="13341000" />
+      <workItem from="1557336908128" duration="4422000" />
+      <workItem from="1557398860920" duration="18035000" />
+      <workItem from="1557835594391" duration="17648000" />
+      <workItem from="1557857651818" duration="206000" />
+      <workItem from="1558526951171" duration="860000" />
     </task>
-    <task id="LOCAL-00001" summary="oop_a3">
-      <created>1557242840064</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557242840064</updated>
-=======
-      <workItem from="1557223191144" duration="17845000" />
->>>>>>> alex
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="22985000" />
-=======
-    <option name="totallyTimeSpent" value="17845000" />
->>>>>>> alex
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="54541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="0" width="1376" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49537036" visible="true" weight="0.2685325" />
+      <window_info id="Structure" order="1" sideWeight="0.5046296" side_tool="true" visible="true" weight="0.2685325" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5015432" side_tool="true" weight="0.26096824" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3117284" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3287037" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3287037" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" x="0" y="0" width="294" height="573" id="Documentation" order="6" side_tool="true" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Learn" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.18532526" />
-      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49924356" weight="0.3287037" />
-=======
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" sideWeight="0.49924356" visible="true" weight="0.3287037" />
->>>>>>> alex
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50075644" side_tool="true" weight="0.3287037" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.3287037" />
-      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-<<<<<<< HEAD
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3287037" />
-=======
-      <window_info anchor="bottom" id="Run" order="6" />
->>>>>>> alex
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3287037" />
-      <window_info anchor="bottom" id="TODO" order="11" weight="0.22222222" />
-      <window_info anchor="right" id="Palette&#9;" order="0" />
-      <window_info anchor="right" id="Maven" order="1" />
-      <window_info anchor="right" id="Palette" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.3287037" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3287037" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3287037" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-    </layout>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="oop_a3" />
-    <option name="LAST_COMMIT_MESSAGE" value="oop_a3" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/Assignment2/ass2" />
+      <path value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2" />
+      <path value="$PROJECT_DIR$/src/ass2" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/unx/ObserverTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="-14191">
+          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/XML/Exporter/XML_Exporter_Annotation.java">
-<<<<<<< HEAD
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/XML/Annotation/ElementField.java">
-=======
->>>>>>> alex
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/lecture10/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/AnnotationEx.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/AnnotationImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/AnnotationVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElement.java" />
     <entry file="file://$PROJECT_DIR$/src/Oop_a3/lecture10/MyClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
+        <state relative-caret-position="-44">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/XML/Annotation/ElementField.java">
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Annotation/ElementField.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/reflect/Method.class">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="45">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="207">
+          <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/lecture10/ClassPreamble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-=======
-        <state relative-caret-position="105">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
->>>>>>> alex
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="225">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="method#visit#1;class#PrettyPrintVisitor#0" />
-          </folding>
-=======
-        <state relative-caret-position="75">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
->>>>>>> alex
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/lecture10/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/lecture10/FieldTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="180">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-=======
-        <state relative-caret-position="45">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
->>>>>>> alex
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/TestVisitors.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="449">
-          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-=======
-        <state relative-caret-position="165">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/lecture5/strategy/Sinus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
->>>>>>> alex
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="180">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-=======
-        <state relative-caret-position="105">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
->>>>>>> alex
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/TreeVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Leaf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="7" selection-start-line="10" selection-end-line="11" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/lecture5/strategy/Sinus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/PrettyPrintVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="method#visit#1;class#PrettyPrintVisitor#0" />
-            <element signature="method#visit#2;class#PrettyPrintVisitor#0" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="method#visit#1;class#PrettyPrintVisitor#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Annotation/SubElements.java" />
     <entry file="file://$PROJECT_DIR$/src/Oop_a3/lecture10/TestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="285">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/TestVisitors.java">
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Annotation/Element.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/Tree.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Exporter/XML_Exporter.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Annotation/SubElements.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/AnnotationEx.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/AnnotationVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/AnnotationImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Annotation/ElementField.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Tree.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Exporter/XML_Exporter.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/Saver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
->>>>>>> alex
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/XML/Annotation/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="300">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/TreeVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/PrettyPrintVisitor.java">
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Annotation/Element.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="method#visit#1;class#PrettyPrintVisitor#0" />
->>>>>>> alex
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/annotation/Annotation.class">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationEx.java">
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Saver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/idk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-end-line="4" />
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Leaf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="7" selection-start-line="10" selection-end-line="11" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
->>>>>>> alex
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
->>>>>>> alex
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/XML/Exporter/XML_Exporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#180#188#0" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Saver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
->>>>>>> alex
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
->>>>>>> alex
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Saver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/AnnotationEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-          </folding>
->>>>>>> alex
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

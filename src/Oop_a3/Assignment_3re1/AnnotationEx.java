@@ -1,12 +1,8 @@
-package Oop_a3;
+package Oop_a3.Assignment_3re1;
 
 import java.lang.annotation.Annotation;
 
-<<<<<<< HEAD
 public class    AnnotationEx implements AnnotationImpl {
-=======
-public class AnnotationEx implements AnnotationImpl {
->>>>>>> alex
     @Override
     public <R> R accept(AnnotationVisitor aV, R initialResult) {
         return aV.visit(this, initialResult);
@@ -20,9 +16,5 @@ public class AnnotationEx implements AnnotationImpl {
     @Override
     public Class<? extends Annotation> annotationType() {
         return null;
-<<<<<<< HEAD
-
-=======
->>>>>>> alex
-    }
+}
 }
