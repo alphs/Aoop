@@ -8,9 +8,7 @@ public class Board extends JFrame implements ChangeListener {
 
    private JFrame jframe;
 
-    public Board() {
-        jframe = new JFrame();
-    }
+
 
 
 
