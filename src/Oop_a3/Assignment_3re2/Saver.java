@@ -5,8 +5,11 @@ import Oop_a3.Assignment_3re2.XML.Annotation.ElementField;
 import Oop_a3.Assignment_3re2.XML.Annotation.SubElements;
 
 import javax.naming.directory.NoSuchAttributeException;
+import java.awt.*;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
+import java.util.Arrays;
+import java.util.List;
 
 public class Saver {
 
@@ -61,11 +64,12 @@ public class Saver {
         }
         else {
             int strLength = string.length();
-            return string.replace(strLength - ">".length(), strLength, "/>" + System.lineSeparator()).toString();
+            return string.replace(strLength - ">".length(), strLength, "/>").toString();
         }
     }
 
     private <T> StringBuilder indent(StringBuilder result, StringBuilder indentation, T[] t){
+
         result.append(System.lineSeparator())
                 .append(indentation)
                 .append("<").append(se.name()).append(">");
@@ -73,19 +77,18 @@ public class Saver {
         indentation.append("    ");
         for (T tt : t){
             try {
-                @SuppressWarnings("unchecked")
-                T[] arr2expand = (T[]) subElementsMethod.invoke(tt);
-                if (arr2expand != null){
-                   // System.out.println("reached");
-                    result.append( indent(new StringBuilder(), indentation.append("    "), arr2expand) );
-                    indentation.delete(0, "    ".length());
-                }
-
                 // "    <node value="sub1"/>"
                 result.append(System.lineSeparator()).append(indentation).append("<").append(e.name()).append(" ")
                         .append(ef.name()).append("=\"")
                         .append(elementFieldMethod.invoke(tt))
                         .append("\"/>");
+
+                @SuppressWarnings("unchecked")
+                T[] arr2expand = (T[]) subElementsMethod.invoke(tt);
+                if (arr2expand != null){
+                    result.append(indent(new StringBuilder(), indentation.append("    "), arr2expand));
+                    indentation.delete(0, "    ".length());
+                }
             }
             catch (IllegalAccessException | InvocationTargetException ex) {
                 ex.printStackTrace();

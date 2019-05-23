@@ -6,39 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e87172e-13ef-437e-b06d-26cef3a6ab45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oop_Project/idk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/AnnotationImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/AnnotationVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/Saver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Annotation/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Annotation/ElementField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Exporter/XML_Exporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Saver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/asdf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/asdf.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aoop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aoop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/AnnotationEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/AnnotationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/AnnotationVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Saver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/XML/Annotation/Element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/XML/Annotation/ElementField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/XML/Annotation/SubElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/XML/Exporter/XML_Exporter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/AnnotationEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/AnnotationEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/AnnotationImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/AnnotationVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/Saver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/Element.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/ElementField.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Annotation/SubElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Annotation/SubElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_a3/XML/Exporter/XML_Exporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/lecture5/lecture5.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,48 +22,17 @@
     <favorites_list name="Aoop" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="14" selection-start-line="6" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Saver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Oop_Project/idk.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Annotation/Element.java">
+        <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Board.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,6 +43,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JavaFXApplication" />
       </list>
     </option>
   </component>
@@ -113,9 +51,12 @@
     <findStrings>
       <find>=======</find>
       <find>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</find>
+      <find>tempresultLengthList</find>
+      <find>indent</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>tempResultLengthList</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -138,13 +79,25 @@
         <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/XML/Exporter/XML_Exporter.java" />
         <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Assignment_3re1/Tree.java" />
         <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Tree.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
         <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/Saver.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-        <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Exporter/XML_Exporter.java" />
         <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3_2/Saver.java" />
         <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3/Saver.java" />
+        <option value="$PROJECT_DIR$/src/Oop_Project/Game/Board.java" />
+        <option value="$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Player/Player.java" />
+        <option value="$PROJECT_DIR$/src/Oop_Project/Player/Player.java" />
+        <option value="$PROJECT_DIR$/src/Oop_Project/GameFramework/Player/Player.java" />
+        <option value="$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/CheckGameState.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_6.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
+        <option value="$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Board.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/unx/ObserverTester.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Exporter/XML_Exporter.java" />
         <option value="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Saver.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/ass2/ass2/unx/ObserverTester.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/ass2/lecture7/visitorpassres/PrettyPrintVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/presenter/imagePresenter.java" />
+        <option value="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/presenter/presenter.java" />
       </list>
     </option>
   </component>
@@ -159,7 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,6 +134,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -189,25 +142,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Oop_a3" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Oop_a3" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Oop_a2" />
       <recent name="Oop_a3.Assignment_3re1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Oop_a3" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Oop_a3/Assignment_3re2" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Oop_a3" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -261,34 +215,56 @@
       <workItem from="1557398860920" duration="18035000" />
       <workItem from="1557835594391" duration="17648000" />
       <workItem from="1557857651818" duration="206000" />
-      <workItem from="1558526951171" duration="860000" />
+      <workItem from="1558526951171" duration="5041000" />
+      <workItem from="1558535079067" duration="17410000" />
+      <workItem from="1558620322034" duration="1952000" />
+      <workItem from="1558622397135" duration="273000" />
+      <workItem from="1558622867408" duration="84000" />
+      <workItem from="1558624198055" duration="297000" />
+      <workItem from="1558625226699" duration="527000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Oop_Project">
+      <created>1558625430235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558625430235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54541000" />
+    <option name="totallyTimeSpent" value="79265000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="0" width="1376" height="773" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49537036" visible="true" weight="0.2685325" />
-      <window_info id="Structure" order="1" sideWeight="0.5046296" side_tool="true" visible="true" weight="0.2685325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5448276" visible="true" weight="0.29425114" />
+      <window_info id="Structure" order="1" sideWeight="0.45517242" side_tool="true" visible="true" weight="0.29425114" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Learn" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5015432" side_tool="true" weight="0.26096824" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3117284" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27006173" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3287037" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3287037" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.3287037" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3287037" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3287037" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -298,39 +274,42 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" x="0" y="0" width="294" height="573" id="Documentation" order="6" side_tool="true" weight="0.32980332" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Learn" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.24962178" />
-      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.3287037" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.3287037" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.3287037" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Maven" order="2" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/src/Assignment2/ass2" />
       <path value="$PROJECT_DIR$/src/Oop_a2/gitK/ass2" />
       <path value="$PROJECT_DIR$/src/ass2" />
     </ignored-roots>
+    <MESSAGE value="Added Oop_Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Oop_Project" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -375,8 +354,6 @@
     <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/AnnotationVisitor.java" />
     <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/AnnotationImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Annotation/ElementField.java" />
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Tree.java" />
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Exporter/XML_Exporter.java" />
     <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/Saver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -384,13 +361,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" selection-start-line="6" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -408,17 +378,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Saver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Oop_Project/idk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/newWindow.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/CheckGameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/javadoc/Oop_a1/nococ/Assignment_1_6.MessageStack.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/XML/Exporter/XML_Exporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a1/nococ/Assignment_1_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Checkpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Player/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/unx/DataModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a3/Assignment_3re2/Saver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/unx/ObserverTester.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/unx/BarFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/unx/TextFrame.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/lecture7/visitorpassres/PrettyPrintVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/presenter/dog.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/presenter/presenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/presenter/imagePresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -473,10 +551,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>Aoop</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -103,6 +103,7 @@ public class Assignment_1_6 {
             return list;
         }
     }
+
     public static void main(String[] args){
 
     }

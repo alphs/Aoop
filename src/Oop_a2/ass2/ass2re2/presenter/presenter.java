@@ -1,4 +1,12 @@
-package Oop_Project;
+package Oop_a2.ass2.ass2re2.presenter;
+
+/* Presenter Framework
+ * uses a constructor to make a panel that contains 4 buttons and a text field (display)
+ * it can update text with showText() function in the text field to a desired output 
+ * the framework can also use buttons in order to manipulate the actions with actionListener
+ * to complete the application the programmer needs to update the label to desigred output in the frame
+ * of the superclass
+ */
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -6,7 +14,8 @@ import java.awt.event.ActionListener;
 
 import javax.swing.*;
 
-public abstract class test extends JPanel implements ActionListener {	
+@SuppressWarnings("serial")
+public abstract class presenter extends JPanel implements ActionListener {	
 	JButton wButton = new JButton("West");
 	JButton eButton = new JButton("East");
 	JButton nButton = new JButton("North");
