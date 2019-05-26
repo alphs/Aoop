@@ -1,12 +1,12 @@
 package Oop_a2.ass2.ass2re2.unx;
 
-import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.util.ArrayList;
-import java.util.function.Consumer;
 import java.util.stream.IntStream;
 
 /**
@@ -15,8 +15,6 @@ import java.util.stream.IntStream;
 public class TextFrame extends JFrame implements ChangeListener {
    private DataModel dataModel;
    private JTextField[] fieldList;
-
-   DataModel getDataModel(){ return dataModel;}
 
    /**
     Constructs a JFrame that contains the textfields containing the data

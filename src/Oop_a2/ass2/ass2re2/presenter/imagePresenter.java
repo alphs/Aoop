@@ -7,17 +7,12 @@ package Oop_a2.ass2.ass2re2.presenter;
  * then the horizontal buttons go through the array of picture paths
  */
 
-import java.awt.Color;
-import java.awt.Component;
-import java.awt.Dimension;
+import javax.imageio.ImageIO;
+import javax.swing.*;
+import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
-
-import javax.imageio.ImageIO;
-import javax.swing.ImageIcon;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
 
 @SuppressWarnings("serial")
 public class imagePresenter extends presenter {
@@ -82,9 +77,9 @@ public class imagePresenter extends presenter {
 	
 	public static void main(String[] args) {
 		String[] image = new String[3];
-		image[0] = "D:\\Skola\\Java Programmering\\assignment2\\src\\presenterFramework\\dog.png";
-		image[1] = "D:\\Skola\\Java Programmering\\assignment2\\src\\presenterFramework\\duck.png";
-		image[2] = "D:\\Skola\\Java Programmering\\assignment2\\src\\presenterFramework\\empty.png";
+		image[0] = "/home/asdf/Aoop/src/Oop_a2/ass2/ass2re2/presenter/dog.png";
+		image[1] = "/home/asdf/Aoop/src/Oop_a2/ass2/ass2re2/presenter/duck.png";
+		image[2] = "/home/asdf/Aoop/src/Oop_a2/ass2/ass2re2/presenter/empty.png";
 		JFrame f = new JFrame();
 		imagePresenter p = new imagePresenter(image);
 		f.add(p);

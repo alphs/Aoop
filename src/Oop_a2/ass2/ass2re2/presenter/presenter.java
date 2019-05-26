@@ -8,11 +8,10 @@ package Oop_a2.ass2.ass2re2.presenter;
  * of the superclass
  */
 
+import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
-import javax.swing.*;
 
 @SuppressWarnings("serial")
 public abstract class presenter extends JPanel implements ActionListener {	
