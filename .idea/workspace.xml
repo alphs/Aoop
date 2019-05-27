@@ -2,35 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2a20fd6-13df-43b0-82da-120dee25b861" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/asdf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/asdf.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/GameFramework/Game/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/GameFramework/Game/Board.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/GameFramework/Game/CheckGameState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/GameFramework/Game/Checkpoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/GameFramework/Game/Object.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Resources/sokoban_icons/blank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Resources/sokoban_icons/blankmarked.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Resources/sokoban_icons/crate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Resources/sokoban_icons/cratemarked.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Resources/sokoban_icons/player.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Resources/sokoban_icons/wall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/idk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/TextFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/TextFrame$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/TextFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/TextFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/gui/TestButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/lecture5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/Signal$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/Signal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/SignalObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/SignalWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/StarObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/TestSignal1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/TestSignal1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/observer/TestSignal2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/strategy/DefaultSampler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/strategy/Sampler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/lecture5/strategy/Sinus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Examples/CBListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Examples/GlassPaneDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Examples/GlassPaneDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Examples/GridLayoutDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Examples/GridLayoutDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Examples/LayeredPaneDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Examples/LayeredPaneDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Examples/MyGlassPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/GameFramework/Game/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/GameFramework/Game/GObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/GameFramework/Game/GObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/GameFramework/Player/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Sokoban/Sokoban.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_6$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_6$MessageStack$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_6$MessageStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/Signal$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/Signal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/Sinus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2_3/abstractFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2_3/abstractFilterTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/LeavesCountVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/ListLeavesVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/TestVisitors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/TreeHeightVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/LeavesCountVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/PrettyPrintVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/TestVisitors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/TreeHeightVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/unx/BarFrame$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/unx/BarFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/unx/BarFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/unx/DataModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/unx/TextFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/unx/TextFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/DefaultSampler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/Sampler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/Signal$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/Signal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/Sinus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/StarObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2_3/abstractFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2_3/abstractFilterTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/LeavesCountVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/ListLeavesVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/PrettyPrintVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/TestVisitors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/presenter/imagePresenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/presenter/presenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/BarFrame$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/BarFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/BarFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/ObserverTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Assignment_3re2/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Assignment_3re2/XML/Exporter/XML_Exporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/lecture10/FieldTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/lecture10/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/lecture10/TestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_Project/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_Project/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_Project/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_Project/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/GObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/GObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Background.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Background.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/DefaultSampler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/DefaultSampler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/Sampler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/Sampler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/Signal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/Signal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/SignalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/SignalObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/SignalWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/SignalWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/Sinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/Sinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/StarObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/StarObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/TestSignal1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/assignment2/TestSignal1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/unx/BarFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/unx/BarFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/unx/DataModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/unx/DataModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/unx/ObserverTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/unx/ObserverTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/unx/TextFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re1/unx/TextFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/DefaultSampler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/DefaultSampler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/Sampler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/Sampler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/Signal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/Signal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/SignalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/SignalObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/SignalWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/SignalWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/Sinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/Sinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/StarObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/StarObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/TestSignal1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/assignment2/TestSignal1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/presenter/imagePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/presenter/imagePresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/presenter/presenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/presenter/presenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/unx/BarFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/unx/BarFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/unx/DataModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/unx/DataModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/unx/ObserverTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/unx/ObserverTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/unx/TextFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_a2/ass2/ass2re2/unx/TextFrame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,14 +105,14 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.50385207">
+    <splitter split-orientation="vertical" split-proportion="0.54320985">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/Sokoban.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+                <state relative-caret-position="120">
+                  <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -63,25 +123,40 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Board.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="137">
-                  <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+                <state relative-caret-position="212">
+                  <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#1345#1346#0" expanded="true" />
-                    <element signature="e#1407#1408#0" expanded="true" />
                     <element signature="docComment;method#createGUI#0;class#Board#0" />
-                    <element signature="e#1639#1640#0" expanded="true" />
-                    <element signature="e#1671#1672#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Background.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="11" selection-start-line="11" selection-end-line="11" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Background.java">
+            <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/GObject.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+                <state relative-caret-position="120">
+                  <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#211#212#0" expanded="true" />
+                    <element signature="e#248#249#0" expanded="true" />
+                    <element signature="e#273#274#0" expanded="true" />
+                    <element signature="e#304#305#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -95,7 +170,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Marker.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="30">
@@ -108,23 +183,7 @@
             <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Crate.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="60">
-                  <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/GObject.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#250#251#0" expanded="true" />
-                    <element signature="e#282#283#0" expanded="true" />
-                    <element signature="e#420#421#0" expanded="true" />
-                    <element signature="e#451#452#0" expanded="true" />
-                  </folding>
+                  <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
                 </state>
               </provider>
             </entry>
@@ -145,8 +204,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/Oop_Project/Examples/LayeredPaneDemo.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="107" column="31" selection-start-line="107" selection-start-column="31" selection-end-line="107" selection-end-column="31" />
+                <state relative-caret-position="96">
+                  <caret line="108" column="39" selection-start-line="108" selection-end-line="109" />
                 </state>
               </provider>
             </entry>
@@ -154,7 +213,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Oop_Project/Examples/GlassPaneDemo.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1410">
+                <state relative-caret-position="216">
                   <caret line="134" column="6" selection-start-line="134" selection-start-column="6" selection-end-line="134" selection-end-column="6" />
                   <folding>
                     <element signature="method#redispatchMouseEvent#0;class#CBListener#0" />
@@ -167,7 +226,7 @@
             <entry file="file://$PROJECT_DIR$/src/Oop_Project/Examples/GridLayoutDemo.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="106">
-                  <caret line="119" column="7" lean-forward="true" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
+                  <caret line="119" column="7" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
                 </state>
               </provider>
             </entry>
@@ -194,6 +253,7 @@
       <find>compsToExperiment</find>
       <find>Dimension</find>
       <find>GridLayout</find>
+      <find>createImageIcon</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -223,16 +283,17 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
         <option value="$PROJECT_DIR$/src/Oop_Project/Examples/GridLayoutDemo.java" />
         <option value="$PROJECT_DIR$/src/Oop_Project/Sokoban/Sokoban.java" />
-        <option value="$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Board.java" />
-        <option value="$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/GObject.java" />
         <option value="$PROJECT_DIR$/src/Oop_Project/Sokoban/Background.java" />
         <option value="$PROJECT_DIR$/src/Oop_Project/Sokoban/Crate.java" />
-        <option value="$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Crate.java" />
         <option value="$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Walls.java" />
+        <option value="$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Crate.java" />
+        <option value="$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Board.java" />
+        <option value="$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/GObject.java" />
+        <option value="$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Background.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-5" />
     <option name="width" value="1376" />
     <option name="height" value="773" />
@@ -242,6 +303,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,6 +350,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Oop_Project" type="462c0819:PsiDirectoryNode" />
               <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name="sokoban_icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Oop_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
               <item name="yolo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -295,7 +365,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,18 +472,18 @@
       <workItem from="1558625850360" duration="28068000" />
       <workItem from="1558884957196" duration="530000" />
       <workItem from="1558888370392" duration="9415000" />
+      <workItem from="1558953884615" duration="3311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38013000" />
+    <option name="totallyTimeSpent" value="41324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="0" width="1376" height="773" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.58243454" visible="true" weight="0.25679758" />
-      <window_info id="Structure" order="1" sideWeight="0.4175655" side_tool="true" visible="true" weight="0.25679758" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.57931036" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" sideWeight="0.42068964" side_tool="true" visible="true" weight="0.26096824" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Learn" order="4" />
@@ -429,7 +498,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3287037" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3287037" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3287037" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3287037" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -524,94 +593,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Examples/GlassPaneDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="134" column="6" selection-start-line="134" selection-start-column="6" selection-end-line="134" selection-end-column="6" />
-          <folding>
-            <element signature="method#redispatchMouseEvent#0;class#CBListener#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/Sokoban.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Examples/GridLayoutDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="119" column="7" lean-forward="true" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Examples/LayeredPaneDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="107" column="31" selection-start-line="107" selection-start-column="31" selection-end-line="107" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/GObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1345#1346#0" expanded="true" />
-            <element signature="e#1407#1408#0" expanded="true" />
-            <element signature="docComment;method#createGUI#0;class#Board#0" />
-            <element signature="e#1639#1640#0" expanded="true" />
-            <element signature="e#1671#1672#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/Resources/sokoban_icons/blank.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Background.java">
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/Sokoban.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Crate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Walls.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -622,6 +617,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Crate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#createGUI#0;class#Board#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Examples/GlassPaneDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="134" column="6" selection-start-line="134" selection-start-column="6" selection-end-line="134" selection-end-column="6" />
+          <folding>
+            <element signature="method#redispatchMouseEvent#0;class#CBListener#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Examples/GridLayoutDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="119" column="7" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Examples/LayeredPaneDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="108" column="39" selection-start-line="108" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Walls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/GameFramework/Game/GObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oop_Project/Sokoban/yolo/Background.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
