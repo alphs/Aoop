@@ -1,3 +1,6 @@
 [submodule "src/Oop_Project"]
 	path = src/Oop_Project
 	url = https://github.com/alphs/Oop_Project
+[submodule "src/Oop_a2/ass2"]
+	path = src/Oop_a2/ass2
+	url = https://github.com/Origor/ass2
