@@ -1,83 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2a20fd6-13df-43b0-82da-120dee25b861" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aoop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aoop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/META-INF/Aoop.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/.project" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/GameFramework/Game/GObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Sokoban/Resources/sokoban_icons/blank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Sokoban/Resources/sokoban_icons/blankmarked.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Sokoban/Resources/sokoban_icons/crate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Sokoban/Resources/sokoban_icons/cratemarked.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Sokoban/Resources/sokoban_icons/player.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_Project/Sokoban/Resources/sokoban_icons/wall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/Dependency/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/Dependency/Message.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment1_12$Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment1_12$Filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment1_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment1_12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_4$Stack$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_4$Stack$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_4$Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_4$Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/nococ/Assignment_1_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/test/AssignmentTest_1_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a1/test/AssignmentTest_1_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/DefaultSampler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/DefaultSampler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/Sampler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/Sampler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/SignalObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/SignalObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/SignalWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/SignalWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/StarObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/StarObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/TestSignal1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/TestSignal1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/TestSignal1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/assignment2/TestSignal1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/Leaf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/TreeVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorbase/TreeVisitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/Leaf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/ListLeavesVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/ListLeavesVisitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/TreeVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/lecture7/visitorpassres/TreeVisitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/unx/ObserverTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re1/unx/ObserverTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/SignalObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/SignalObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/SignalWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/SignalWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/TestSignal1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/TestSignal1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/TestSignal1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/assignment2/TestSignal1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Leaf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/TreeHeightVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/TreeHeightVisitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/TreeVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/lecture7/visitorpassres/TreeVisitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/presenter/dog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/presenter/duck.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/presenter/empty.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/DataModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/DataModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/TextFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/TextFrame$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/TextFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a2/ass2/ass2re2/unx/TextFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Assignment_3re2/Saver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Assignment_3re2/Saver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Assignment_3re2/XML/Annotation/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Assignment_3re2/XML/Annotation/Element.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Assignment_3re2/XML/Annotation/ElementField.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Assignment_3re2/XML/Annotation/ElementField.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Assignment_3re2/XML/Annotation/SubElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/Assignment_3re2/XML/Annotation/SubElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/lecture10/ClassPreamble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/lecture10/ClassPreamble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/lecture10/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aoop/Oop_a3/lecture10/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aoop/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_Project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_Project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_Project/new_Project_parenthesis_this_is_the_one_to_choose/GameFramework/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_Project/new_Project_parenthesis_this_is_the_one_to_choose/GameFramework/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_Project/new_Project_parenthesis_this_is_the_one_to_choose/Sokoban/Resources/Dependencies/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_Project/new_Project_parenthesis_this_is_the_one_to_choose/Sokoban/Resources/Dependencies/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop_Project/new_Project_parenthesis_this_is_the_one_to_choose/Sokoban/Sokoban.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop_Project/new_Project_parenthesis_this_is_the_one_to_choose/Sokoban/Sokoban.java" afterDir="false" />
-    </list>
+    <list default="true" id="a2a20fd6-13df-43b0-82da-120dee25b861" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/src/Oop_a3/Assignment_3re1/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -410,19 +334,18 @@
       <workItem from="1558884957196" duration="530000" />
       <workItem from="1558888370392" duration="9415000" />
       <workItem from="1558953884615" duration="3311000" />
-      <workItem from="1563613080093" duration="1314000" />
+      <workItem from="1563613080093" duration="1430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42638000" />
+    <option name="totallyTimeSpent" value="42754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.57637477" visible="true" weight="0.26494345" />
-      <window_info id="Structure" order="1" sideWeight="0.42362526" side_tool="true" visible="true" weight="0.26494345" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5780822" visible="true" weight="0.26494345" />
+      <window_info id="Structure" order="1" sideWeight="0.4219178" side_tool="true" visible="true" weight="0.26494345" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Learn" order="4" />
@@ -431,7 +354,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3287037" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32739726" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32739726" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
